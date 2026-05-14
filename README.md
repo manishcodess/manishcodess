@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Manish Sharma</h1>
+<h1 align="center">Hey 👋 I'm Manish Kumar Sharma</h1>
 <h3 align="center">Full Stack Developer • MERN Stack • DSA • Building Towards High Impact Software Engineering</h3>
 
 <p align="center">
