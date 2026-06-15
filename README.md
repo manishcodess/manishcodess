@@ -1,4 +1,12 @@
-
+<div align="center">
+  <video src="./carvideo.mp4"
+         autoplay
+         loop
+         muted
+         playsinline
+         width="100%">
+  </video>
+</div>
 <h1 align="center">Oi, World! I'm Manish</h1>
 <h3 align="center">Full Stack Developer • MERN Stack • DSA • Building Towards High Impact Software Engineering</h3>
 <p align="center">
