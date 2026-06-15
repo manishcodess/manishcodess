@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="[https://pin.it/2iXPD291w](https://pin.it/LmepDolWr)" width="100%" style="border-radius: 10px;" alt="Header GIF" />
-</div>
-
+<img width="736" height="414" alt="raincodeheader" src="https://github.com/user-attachments/assets/5cdda5ff-3ab3-415c-a1d7-08074a1f7154" />
 <h1 align="center">Oi, World! I'm Manish</h1>
 <h3 align="center">Full Stack Developer • MERN Stack • DSA • Building Towards High Impact Software Engineering</h3>
 
@@ -13,14 +10,40 @@
 
 ## 👨‍💻 About Me
 
-🎓 Final B.Tech student in Mechatronics & Automation Engineering at IIIT Bhagalpur,India 
+
 💻 Passionate about Full Stack Development and scalable backend systems  
 🧠 Strong interest in DSA, System Design, and real-world software architecture    
-🎯 Aiming for high-impact SDE roles and challenging engineering opportunities  
+
 ⚡ Love building products that combine clean UI with strong backend logic
 
 ---
-
+<table>
+  <tr>
+    <td valign="center" width="60%">
+      <h3>👨‍💻 The "TL;DR"</h3>
+      <ul>
+        <li>
+          🔭🎓 Final B.Tech student in Mechatronics & Automation Engineering at IIIT Bhagalpur,India.
+        </li>
+        <li>
+          🧠 Strong interest in DSA, System Design, and real-world software architecture .
+        </li>
+        <li>
+          🎯 Aiming for high-impact SDE roles and challenging engineering opportunities  
+        </li>
+        <li>
+          ⚡ Love building products that combine clean UI with strong backend logic
+        </li>
+        <li>
+          📫 <strong>Contact:</strong> <a href="mailto:manish.sharma.iiit@gmail.com">manish.sharma.iiit@gmai.com</a>
+        </li>
+      </ul>
+    </td>
+    <td valign="center" width="40%" align="center">
+      <img src="[https://media.giphy.com/media/E8GfFH47PKeyI/giphy.gif](https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif)" width="90%" alt="Coding Gif" />
+    </td>
+  </tr>
+</table>
 ## 🛠️ Tech Stack
 
 ### 🚀 Frontend
