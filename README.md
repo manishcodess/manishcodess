@@ -6,21 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;DSA+Enthusiast;Building+Real+Projects+and+Improving+Every+Day;Focused+on+High+Performance+Engineering" alt="Typing SVG" />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-
-💻 Passionate about Full Stack Development and scalable backend systems  
-🧠 Strong interest in DSA, System Design, and real-world software architecture    
-
-⚡ Love building products that combine clean UI with strong backend logic
 
 ---
 <table>
   <tr>
     <td valign="center" width="60%">
-      <h3>👨‍💻 The "TL;DR"</h3>
+      <h3>👨‍💻About Me"</h3>
       <ul>
         <li>
           🔭🎓 Final B.Tech student in Mechatronics & Automation Engineering at IIIT Bhagalpur,India.
@@ -40,12 +31,13 @@
       </ul>
     </td>
     <td valign="center" width="40%" align="center">
-      <img src="[https://media.giphy.com/media/E8GfFH47PKeyI/giphy.gif](https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif)" width="90%" alt="Coding Gif" />
+      <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="90%" alt="Coding Gif" />
     </td>
   </tr>
 </table>
 ## 🛠️ Tech Stack
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
 ### 🚀 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" />
