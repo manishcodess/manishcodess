@@ -9,14 +9,11 @@
 <div align="center">
   <img src="./carvideo.gif" width="80%" alt="Banner">
 </div>
-
+<br>
 <table>
   <tr>
     <td valign="center" width="60%">
 <h3>👨‍💻 About Me</h3>
-
-
-
 <ul>
 
   <li>🚀 Turning ideas into scalable web applications.</li>
@@ -73,8 +70,7 @@
 </td>
 </tr>
 </table>
----
-
+<br>
 ## 📌 Featured Projects
 
 ### 🍔 MealFlow
