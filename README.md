@@ -1,4 +1,8 @@
-<h1 align="center">Hey 👋 I'm Manish Kumar Sharma</h1>
+<div align="center">
+  <img src="https://pin.it/2iXPD291w" width="100%" style="border-radius: 10px;" alt="Header GIF" />
+</div>
+
+<h1 align="center">Oi, World! I'm Manish</h1>
 <h3 align="center">Full Stack Developer • MERN Stack • DSA • Building Towards High Impact Software Engineering</h3>
 
 <p align="center">
@@ -9,10 +13,9 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech student in Mechatronics & Automation Engineering at IIIT Bhagalpur  
+🎓 Final B.Tech student in Mechatronics & Automation Engineering at IIIT Bhagalpur,India 
 💻 Passionate about Full Stack Development and scalable backend systems  
-🧠 Strong interest in DSA, System Design, and real-world software architecture  
-📈 Consistently improving through projects, problem solving, and deep learning  
+🧠 Strong interest in DSA, System Design, and real-world software architecture    
 🎯 Aiming for high-impact SDE roles and challenging engineering opportunities  
 ⚡ Love building products that combine clean UI with strong backend logic
 
