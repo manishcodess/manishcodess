@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pin.it/2iXPD291w" width="100%" style="border-radius: 10px;" alt="Header GIF" />
+  <img src="[https://pin.it/2iXPD291w](https://pin.it/LmepDolWr)" width="100%" style="border-radius: 10px;" alt="Header GIF" />
 </div>
 
 <h1 align="center">Oi, World! I'm Manish</h1>
