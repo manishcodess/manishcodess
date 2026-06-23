@@ -83,36 +83,40 @@
 ### 💻 CodeForge
 A scalable full-stack coding platform that simulates real coding interview environments with secure code execution, AI-assisted learning, problem management, and submission tracking.
 
-✨ Features:
--Secure authentication & user management
--Multi-language code execution (C++, Java, JavaScript)
--Real-time code editor powered by Monaco Editor
--Run & Submit functionality with hidden test cases
--AI-powered doubt solving using Google Gemini
--Problem editorials & video solutions
--Submission history & solved problem tracking
--Admin dashboard for problem and test case management
--Responsive and modern UI
+ *✨ Features:*
 
-🛠️ Tech Used:
+• Secure authentication & user management<br>
+• Multi-language code execution (C++, Java, JavaScript)<br>
+• Real-time code editor powered by Monaco Editor<br>
+• Run & Submit functionality with hidden test cases<br>
+• AI-powered doubt solving using Google Gemini<br>
+• Problem editorials & video solutions<br>
+• Submission history & solved problem tracking<br>
+• Admin dashboard for problem and test case management<br>
+• Responsive and modern UI
+
+
+*🛠️ Tech Used:*
 React.js • Redux Toolkit • Tailwind CSS • DaisyUI • Monaco Editor • React Router • Node.js • Express.js • MongoDB • Mongoose • Redis • Judge0 API • Google Gemini AI • JWT • bcrypt
 
 
 ### 🍔 MealFlow 
 A modern food delivery web application inspired by leading food delivery platforms, built using React.js and real-world APIs to deliver a seamless ordering experience.
 
-✨ Features:
--Browse restaurants with real-time API data
--Advanced search and restaurant filtering
--Dynamic cart management using Redux
--Restaurant menu exploration
--Category-wise menu organization
--Shimmer loading effects for better UX
--Responsive design across devices
--Optimized state management
--Clean and intuitive user interface
+*✨ Features:*
 
-🛠️ Tech Used:
+• Browse restaurants with real-time API data<br>
+• Advanced search and restaurant filtering<br>
+• Dynamic cart management using Redux<br>
+• Restaurant menu exploration<br>
+• Category-wise menu organization<br>
+• Shimmer loading effects for better UX<br>
+• Responsive design across devices<br>
+• Optimized state management<br>
+• Clean and intuitive user interface
+
+
+*🛠️ Tech Used:*
 React.js • Redux Toolkit • Tailwind CSS • React Router DOM • JavaScript (ES6+) • Swiggy API Integration
 
 ---
