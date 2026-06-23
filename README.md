@@ -80,32 +80,41 @@
   />
 </h2>
 
-### 🍔 MealFlow 
-A modern food delivery frontend inspired by Swiggy using React.js and real APIs.
+### 💻 CodeForge
+A scalable full-stack coding platform that simulates real coding interview environments with secure code execution, AI-assisted learning, problem management, and submission tracking.
 
 ✨ Features:
-- Restaurant listings
-- Search & filtering
-- Dynamic cart system
-- Responsive UI
-- API integration
+-Secure authentication & user management
+-Multi-language code execution (C++, Java, JavaScript)
+-Real-time code editor powered by Monaco Editor
+-Run & Submit functionality with hidden test cases
+-AI-powered doubt solving using Google Gemini
+-Problem editorials & video solutions
+-Submission history & solved problem tracking
+-Admin dashboard for problem and test case management
+-Responsive and modern UI
 
 🛠️ Tech Used:
-React.js • Redux • Tailwind CSS • APIs
+React.js • Redux Toolkit • Tailwind CSS • DaisyUI • Monaco Editor • React Router • Node.js • Express.js • MongoDB • Mongoose • Redis • Judge0 API • Google Gemini AI • JWT • bcrypt
+
+
+### 🍔 MealFlow 
+A modern food delivery web application inspired by leading food delivery platforms, built using React.js and real-world APIs to deliver a seamless ordering experience.
+
+✨ Features:
+-Browse restaurants with real-time API data
+-Advanced search and restaurant filtering
+-Dynamic cart management using Redux
+-Restaurant menu exploration
+-Category-wise menu organization
+-Shimmer loading effects for better UX
+-Responsive design across devices
+-Optimized state management
+-Clean and intuitive user interface
+
+🛠️ Tech Used:
+React.js • Redux Toolkit • Tailwind CSS • React Router DOM • JavaScript (ES6+) • Swiggy API Integration
 
 ---
-
-### 💻 AlgoForge (MERN Stack)
-A coding platform inspired by LeetCode built with full-stack architecture.
-
-✨ Features:
-- Authentication system
-- Problem management
-- Backend APIs
-- MERN architecture
-- Scalable structure
-
-🛠️ Tech Used:
-MongoDB • Express.js • React.js • Node.js
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
