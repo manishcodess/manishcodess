@@ -14,23 +14,17 @@
   <tr>
     <td valign="center" width="60%">
 <h3>👨‍💻 About Me</h3>
-<ul>
 
-  <li>🚀 Turning ideas into scalable web applications.</li>
+* 🚀 Building full-stack products with **React, Node.js, Express & MongoDB** — from idea to working application.
+* 🧠 Solving **DSA in C++** and strengthening my fundamentals in **DBMS, OOP, CN, OS & System Design**.
+* 🤖 Exploring **GenAI beyond API calls** — LLMs, embeddings, vector databases, RAG and AI-powered applications.
+* ⚡ Building projects around **real-time systems, WebSockets, WebRTC, REST APIs and Redis**.
+* 🏗️ Currently focused on becoming stronger in **Backend Engineering, scalable systems and production-ready development**.
+* 🎯 Long-term goal: become a **strong Software Engineer who can build, understand and scale real products**.
 
-  <li>💻 MERN Stack Developer passionate about clean code and system design.</li>
+  <li>📫 <strong>Reach me:</strong> <a href="mailto:manish.sharma.iiit@gmail.com">manish.sharma.iiit@gmail.com</a></li>
 
-  <li>🧠 Solving DSA problems one bug at a time.</li>
 
-  <li>⚡ Building projects, breaking things, and learning from both.</li>
-
-  <li>🏗️ Interested in Backend Engineering, Distributed Systems, and AI-powered products.</li>
-
-  <li>🎯 On a mission to become a top-tier Software Engineer.</li>
-
-  <li>📫 <strong>Reach me:</strong> manish.sharma.iiit@gmail.com</li>
-
-</ul> 
     </td>
     <td valign="center" width="40%" align="center">
       <img src="/guyondesk.jpg" width="90%" alt="Coding Gif" />
