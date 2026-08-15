@@ -15,9 +15,9 @@
     <td valign="center" width="60%">
 <h3>👨‍💻 About Me</h3>
 
-* 🚀 Building full-stack products with **React, Node.js, Express & MongoDB** — from idea to working application.
-* 🧠 Solving **DSA in C++** and strengthening my fundamentals in **DBMS, OOP, CN, OS & System Design**.
-* 🤖 Exploring GenAI beyond API calls — LLMs, embeddings, vector databases, RAG and AI-powered applications.
+* 🚀 Building full-stack products with React, Node.js, Express & MongoDB.
+* 🧠 Solving DSA in C++ and strengthening DBMS, OOP, CN, OS & System Design.
+* 🤖 Exploring GenAI beyond API calls — LLMs, embeddings, vector databases, RAG and AI-powered apps.
 * ⚡ Building projects around real-time systems, WebSockets, WebRTC, REST APIs and Redis.
 * 🏗️ Currently focused on becoming stronger in Backend, scalable systems and production-ready development.
 * 🎯 Long-term goal: become a strong Software Engineer who can build, understand and scale real products.
