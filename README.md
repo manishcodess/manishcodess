@@ -17,10 +17,10 @@
 
 * 🚀 Building full-stack products with **React, Node.js, Express & MongoDB** — from idea to working application.
 * 🧠 Solving **DSA in C++** and strengthening my fundamentals in **DBMS, OOP, CN, OS & System Design**.
-* 🤖 Exploring **GenAI beyond API calls** — LLMs, embeddings, vector databases, RAG and AI-powered applications.
-* ⚡ Building projects around **real-time systems, WebSockets, WebRTC, REST APIs and Redis**.
-* 🏗️ Currently focused on becoming stronger in **Backend Engineering, scalable systems and production-ready development**.
-* 🎯 Long-term goal: become a **strong Software Engineer who can build, understand and scale real products**.
+* 🤖 Exploring GenAI beyond API calls — LLMs, embeddings, vector databases, RAG and AI-powered applications.
+* ⚡ Building projects around real-time systems, WebSockets, WebRTC, REST APIs and Redis.
+* 🏗️ Currently focused on becoming stronger in Backend, scalable systems and production-ready development.
+* 🎯 Long-term goal: become a strong Software Engineer who can build, understand and scale real products.
 
   <li>📫 <strong>Reach me:</strong> <a href="mailto:manish.sharma.iiit@gmail.com">manish.sharma.iiit@gmail.com</a></li>
 
