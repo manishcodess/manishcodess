@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi, World! I'm Manish</h1>
-<h3 align="center">Software Developer • Full-Stack (MERN) • Backend & Real-Time Systems • GenAI • DSA </h3>
+
+<h2 align="center">Software Developer • Full-Stack (MERN) • Backend & Real-Time Systems • GenAI • DSA </h2>
 
 <p align="center">
 
