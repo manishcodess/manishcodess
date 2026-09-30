@@ -31,38 +31,6 @@
     </td>
   </tr>
 </table>
-
-<br>
-<table>
-<tr>
-<td valign="top" width="60%">
-
-<h2>🛠️ Tech Stack</h2>
-
-<h3>🚀 Frontend</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" />
-</p>
-
-<h3>⚙️ Backend & Database</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
-</p>
-
-<h3>💡 Programming & CS Fundamentals</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" />
-</p>
-
-</td>
-
-<td valign="top" align="center" width="40%">
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="100%">
-
-</td>
-</tr>
-</table>
 <br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
