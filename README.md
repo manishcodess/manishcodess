@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Software Developer • Full-Stack (MERN) • Backend & Real-Time Systems • GenAI • DSA </h2>
+<h2 align="center">Software Developer • Gen AI Full-Stack (MERN) • Backend & Real-Time Systems • DSA </h2>
 
 <p align="center">
 
